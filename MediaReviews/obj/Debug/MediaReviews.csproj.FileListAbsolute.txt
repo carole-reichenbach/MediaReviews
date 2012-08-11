@@ -1,0 +1,5 @@
+C:\Users\Carole McCooby\Documents\MediaReviews\MediaReviews\bin\MediaReviews.dll
+C:\Users\Carole McCooby\Documents\MediaReviews\MediaReviews\bin\MediaReviews.pdb
+C:\Users\Carole McCooby\Documents\MediaReviews\MediaReviews\obj\Debug\MediaReviews.csprojResolveAssemblyReference.cache
+C:\Users\Carole McCooby\Documents\MediaReviews\MediaReviews\obj\Debug\MediaReviews.dll
+C:\Users\Carole McCooby\Documents\MediaReviews\MediaReviews\obj\Debug\MediaReviews.pdb
