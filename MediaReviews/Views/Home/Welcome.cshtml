@@ -11,9 +11,12 @@
     <title>Welcome</title>
 </head>
 <body>
-    <h1>@Model.Message</h1>
+    <h1>Choose a title Carole you Muppett!</h1>
     <div>
-        
+        @foreach (var review in @Model.RecentReviews)
+        {
+            <h2>@review.Name</h2>
+        }
     </div>
 </body>
 </html>
