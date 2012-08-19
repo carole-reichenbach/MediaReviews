@@ -36,6 +36,11 @@ namespace MediaReviews.Controllers
 
             return View(data);
         }
+
+        public ViewResult AddReview()
+        {
+            return View();
+        }
     }
 
     public class WelcomeData
